@@ -30,7 +30,9 @@ R was my first point of call as I was dealing with a Panel data. I took the foll
 ![](https://github.com/samuelejedegba/How-Economic-Factors-Affect-Life-Expectancy/blob/main/Regression%20in%20R.PNG)
 
 3.	I then carried some tests  from my regression analysis. First I tested for individual and Time effect. Then I tested for which of the methods are consistent.
-4.	Finally, I moved the data to Power BI to create scatter plots of Economic factors against Life expectancy to have a better sense of their relationship.
+4.	Finally, I moved the data to Power BI to create scatter plots of Economic factors against Life expectancy to have a better sense of their relationship. Below is the dashboard of scatterplots created on PowerBI
+
+![](https://github.com/samuelejedegba/How-Economic-Factors-Affect-Life-Expectancy/blob/main/Dashboard.PNG)
 
 ## Results
 
